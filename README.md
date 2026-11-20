@@ -35,7 +35,7 @@ g++ file.cpp -o file && ./file              # C++17
 ```
 
 ## Free notes
-📚 Full DSA notes: https://codewithtanvir.infinityfreeapp.com
+📚 Full DSA notes: https://drive.google.com/drive/folders/1Q8mo-JVBa_gXNuTzP8YDSVRzVK5tKwod?usp=drive_link
 
 ## Contributing
 Found a bug or have a cleaner solution? Open an issue or a pull request. Solutions in other languages (JavaScript, Go) are welcome in the same folder.
