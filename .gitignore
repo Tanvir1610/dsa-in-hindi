@@ -1,0 +1,17 @@
+# compiled files
+*.class
+*.out
+*.exe
+*.o
+a.out
+__pycache__/
+# C++ binaries built from the examples
+day01-array/array_access
+day02-binary-search/binary_search
+day03-stack/stack
+day04-queue/printer_queue
+ep02-search-linkedlist/linked_list
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
